@@ -1,4 +1,4 @@
-# SpottsPC2
+# SpottsPC
 Website for SpottsPC
 
 Spotts PC Website
